@@ -60,7 +60,7 @@ Condiciones: `us-east-1`, Linux, bajo demanda, 24/7 (730 h/mes), gp3 de 8 GB, si
 
 ## B5. Documentación
 
-[Vídeo del proyecto (oculto)](https://youtu.be/Xt7CcFOa-uE).
+[Vídeo del proyecto](https://youtu.be/Xt7CcFOa-uE).
 
 ## M1. DNS
 
@@ -103,7 +103,7 @@ Ejecución completada sin errores y web accesible tras la instalación de nginx.
 
 ## Uso de IA
 
-**ChatGPT/Codex** como apoyo para entender requisitos, preparar scripts y revisar la documentación.
+**ChatGPT/Codex** como apoyo para entender requisitos, preparar scripts, revisar la documentación y preparar el repositorio en GitHub.
 
 Prompts resumidos:
 
