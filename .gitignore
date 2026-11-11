@@ -1,0 +1,22 @@
+# Credenciales de AWS y claves privadas
+.aws/
+credentials
+credentials.*
+*.pem
+*.ppk
+*.key
+id_rsa*
+id_ed25519*
+.env
+.env.*
+!.env.example
+
+# Archivos temporales y locales
+tmp/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+Desktop.ini
